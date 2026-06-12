@@ -5,8 +5,11 @@
 I am an AI and Machine Learning Engineer specializing in **Deep Learning architectures, Agentic AI, and MLOps**. I am passionate about building intelligent systems from the ground up—whether that means engineering Transformers from scratch or deploying self-healing ML pipelines to production.
 
 🎓 **Education:** MS in Computer Science (Data Science), North Carolina State University (May 2026)
+
 💼 **Previously:** Data & AI Intern @ Sogeti (Capgemini) | ML Researcher @ Tata Institute of Fundamental Research
+
 🌱 **I’m currently learning:** Transformers and Agentic AI 
+
 🔭 **I’m currently working on:** Gen AI and Cloud
 
 ---
